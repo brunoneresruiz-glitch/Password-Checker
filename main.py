@@ -1,4 +1,4 @@
-#PasswordCheker 
+#PasswordChecker 
 
 import re
 import math
