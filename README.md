@@ -1,6 +1,6 @@
 # PASSWORD STRENGTH CHECKER
 
-A cybersecurity tool that analyses password strength using multiple security criteria, built with **Python**.
+A simple cybersecurity tool that analyses password strength using multiple security criteria, built with **Python**.
 
 ## What it actually does
 - Checks against a list of most common passwords
